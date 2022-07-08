@@ -1,0 +1,1 @@
+# wsmd_cup_proposal
