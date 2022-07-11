@@ -100,7 +100,7 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 
 
 # Prizes:  
-- Unbiased Learning to Rank
+- Task-1: Unbiased Learning to Rank
   
   - Champion: One team ($2000) 
 
@@ -108,7 +108,7 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 
   - 3rd-place: One team ($500)
   
-- Pre-training for Web Search 
+- Task-2: Pre-training for Web Search 
 
   - Champion: One team ($2000) 
 
